@@ -1,2 +1,2 @@
-# Infini-proxy
-LOTS of proxies..
+# Infini-proxy -- by ZMoses
+### Proxies:
